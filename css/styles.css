@@ -1,0 +1,7 @@
+button {
+	background-color: transparent;
+}
+#tweet:hover, #tweet:focus {
+  background-color: blue;
+  border-color: blue;
+}
